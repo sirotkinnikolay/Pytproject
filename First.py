@@ -1,5 +1,5 @@
-number1 = int(input("Введите первое число: "))
-number2 = int(input("Введите второе число: "))
+number1 = int(input("Введите  число один: "))
+number2 = int(input("Введите  число два: "))
 
 revs_number2 = 0
 revs_number1 = 0
