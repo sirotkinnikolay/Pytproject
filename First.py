@@ -16,10 +16,10 @@ def function(number, revs):
 
 
 sum1 = function(number1, revs_number1)
-print("Первое число наоборот :", sum1)
+print("1 число наоборот :", sum1)
 
 sum2 = function(number2, revs_number2)
-print("Первое число наоборот :", sum2)
+print("1 число наоборот :", sum2)
 
 result = sum1 + sum2
 print('Сумма: ', result)
