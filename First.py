@@ -27,3 +27,4 @@ print('Сумма: ', result)
 revers_summa = function(result, revs_result)
 
 print("Сумма наоборот: ", revers_summa)
+print('Все правильно')
